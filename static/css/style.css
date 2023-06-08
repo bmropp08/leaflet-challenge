@@ -1,0 +1,23 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#map,
+body,
+html {
+  height: 100%;
+}
+
+.legend {
+  font-family: Arial, sans-serif;
+  background: #fff;
+  border: 3px solid #000;
+}
+
+.legend h4 {
+  margin:0;
+  padding: 5px;
+  color: white;
+  text-shadow: 0 0 2px black;
+}
